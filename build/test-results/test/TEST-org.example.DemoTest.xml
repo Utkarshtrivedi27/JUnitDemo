@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.DemoTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2023-10-02T05:46:18" hostname="LENOVO-V15" time="0.065">
+  <properties/>
+  <testcase name="test_is_NotTriangle_1()" classname="org.example.DemoTest" time="0.028"/>
+  <testcase name="test_is_NotTriangle_2()" classname="org.example.DemoTest" time="0.001"/>
+  <testcase name="test_is_NotTriangle_3()" classname="org.example.DemoTest" time="0.001"/>
+  <testcase name="test_is_NotTriangle_4()" classname="org.example.DemoTest" time="0.001"/>
+  <testcase name="test_is_NotTriangle_5()" classname="org.example.DemoTest" time="0.001"/>
+  <testcase name="test_is_NotTriangle_6()" classname="org.example.DemoTest" time="0.001"/>
+  <testcase name="test_is_NotTriangle_7()" classname="org.example.DemoTest" time="0.002"/>
+  <testcase name="test_isTriangle_1()" classname="org.example.DemoTest" time="0.001"/>
+  <testcase name="test_isTriangle_2()" classname="org.example.DemoTest" time="0.001"/>
+  <testcase name="test_isTriangle_3()" classname="org.example.DemoTest" time="0.001"/>
+  <testcase name="test_isTriangle_4()" classname="org.example.DemoTest" time="0.001"/>
+  <testcase name="test_isTriangle_5()" classname="org.example.DemoTest" time="0.004"/>
+  <testcase name="test_isTriangle_6()" classname="org.example.DemoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
